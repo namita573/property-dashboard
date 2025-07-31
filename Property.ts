@@ -1,0 +1,1 @@
+// Property type definition
